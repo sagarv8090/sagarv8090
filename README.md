@@ -1,3 +1,4 @@
+![logo](https://github.com/sagarv8090/sagarv8090/blob/main/githubback-ground.png)
 <h1 align="center">Hi 👋, I'm Sagar Vishwakarma</h1>
 <h3 align="center">a pre final year undergrad pursuing B.Tech in Computer Science at IIIT Bhagalpur. Passionate for development & Problem Solving, and always ready to have new experiences, meet new people and learn new things.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
