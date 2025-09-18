@@ -3,13 +3,11 @@
 <h3 align="center">I have completed B.Tech in Computer Science at IIIT Bhagalpur and currently working as SDET at Effig Global. Passionate for development & Problem Solving, and always ready to have new experiences, meet new people and learn new things.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning **NodeJs, ExpressJs**
+- 🌱 I’m currently learning **NodeJs, ExpressJs, Spring boot, Docker**
 
-- 💬 Ask me about **Data Structure, HTML, CSS, JavaScript, React, SQL**
+- 💬 Ask me about **Data Structure, HTML, CSS, JavaScript, React, SQL, Java, Selenium WebDriver, Automation, Performance testing, Apache Jmeter, Git, Manual Testing**
 
-- 📫 How to reach me **sagarvishwakarma08032000@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S0VGH0s8CJwWA9qGsJWWv-4Rw-lq2NnO/view](https://drive.google.com/file/d/1S0VGH0s8CJwWA9qGsJWWv-4Rw-lq2NnO/view)
+- 📫 How to reach me **sagar001rps@gmail.com**
 
 - ⚡ Fun fact **I think I am funny😎**
 
